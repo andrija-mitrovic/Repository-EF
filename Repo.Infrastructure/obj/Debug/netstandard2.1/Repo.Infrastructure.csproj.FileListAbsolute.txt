@@ -1,0 +1,12 @@
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\bin\Debug\netstandard2.1\Repo.Infrastructure.deps.json
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\bin\Debug\netstandard2.1\Repo.Infrastructure.dll
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\bin\Debug\netstandard2.1\Repo.Infrastructure.pdb
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\bin\Debug\netstandard2.1\Repo.Core.dll
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\bin\Debug\netstandard2.1\Repo.Core.pdb
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.1\Repo.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.1\Repo.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.1\Repo.Infrastructure.AssemblyInfo.cs
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.1\Repo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.1\Repo.Infrastructure.csproj.CopyComplete
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.1\Repo.Infrastructure.dll
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.1\Repo.Infrastructure.pdb

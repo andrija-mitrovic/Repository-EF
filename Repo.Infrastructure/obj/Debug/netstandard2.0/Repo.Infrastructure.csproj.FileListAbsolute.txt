@@ -1,0 +1,4 @@
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\bin\Debug\netstandard2.0\Repo.Core.dll
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.0\Repo.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.0\Repo.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Infrastructure\obj\Debug\netstandard2.0\Repo.Infrastructure.AssemblyInfo.cs

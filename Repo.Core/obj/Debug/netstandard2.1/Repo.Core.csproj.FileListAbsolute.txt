@@ -1,0 +1,9 @@
+D:\Projects\ASP .NET Core\Repo\Repo.Core\bin\Debug\netstandard2.1\Repo.Core.deps.json
+D:\Projects\ASP .NET Core\Repo\Repo.Core\bin\Debug\netstandard2.1\Repo.Core.dll
+D:\Projects\ASP .NET Core\Repo\Repo.Core\bin\Debug\netstandard2.1\Repo.Core.pdb
+D:\Projects\ASP .NET Core\Repo\Repo.Core\obj\Debug\netstandard2.1\Repo.Core.csprojAssemblyReference.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Core\obj\Debug\netstandard2.1\Repo.Core.AssemblyInfoInputs.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Core\obj\Debug\netstandard2.1\Repo.Core.AssemblyInfo.cs
+D:\Projects\ASP .NET Core\Repo\Repo.Core\obj\Debug\netstandard2.1\Repo.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ASP .NET Core\Repo\Repo.Core\obj\Debug\netstandard2.1\Repo.Core.dll
+D:\Projects\ASP .NET Core\Repo\Repo.Core\obj\Debug\netstandard2.1\Repo.Core.pdb
